@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/06/1a/62/061a6236a34578b770f8c6c7711ba21b.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/06/1a/62/061a6236a34578b770f8c6c7711ba21b.gif )](https://rishavchanda.io)
 - 📫 How to reach me **chaeyp@outlook.com**
 
 
