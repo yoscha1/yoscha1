@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/06/1a/62/061a6236a34578b770f8c6c7711ba21b.gif )](https://rishavchanda.io)
-
 An engineering student at Chulalongkorn University.<br>Contact: chaeyp@outlook.com
 
 ![](https://github-readme-stats.vercel.app/api?username=yoscha1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
