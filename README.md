@@ -9,6 +9,6 @@
 
 <sup><sub>An engineering student at Chulalongkorn University.<br>Contact: <em>chaeyp@outlook.com<em><sub><sup>
 ---
-[![](https://visitcount.itsvg.in/api?id=yoscha1&icon=0&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
