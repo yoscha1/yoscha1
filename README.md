@@ -6,7 +6,7 @@
 
 
 
-<sup><sub>An engineering student at Chulalongkorn University.<br>Contact: <em>chaeyp@outlook.com<em><sub><sup>
+<sup><sub><br>Contact: <em>chaeyp@outlook.com<em><sub><sup>
 ---
 
 
